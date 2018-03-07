@@ -1,6 +1,6 @@
 # Data-Vizualizations
 
-## This repository Contains the Implementation of the followiing Data Vizualization Tools:
+## This repository Contains the Implementation of the following Data Vizualization Tools:
 
 1. [Tableau](https://public.tableau.com/profile/kanksha.masrani#!/)
 2. Power BI 
