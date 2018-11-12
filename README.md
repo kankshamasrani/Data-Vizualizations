@@ -20,4 +20,9 @@ Follow and stay updated:
 6. [WorkoutWednesday Practice](http://www.vizwiz.com/p/workout-wednesday.html)
 7. [Guide to animated bubble charts using plotly](https://www.kaggle.com/aashita/guide-to-animated-bubble-charts-using-plotly?scriptVersionId=5456794)
 8. [Tableau Basics Free tutorials](https://public.tableau.com/en-us/s/resources)
+9. [Tableau Iron Viz 2018 blog - samples](https://public.tableau.com/en-us/s/blog/2018/05/iron-viz-books-and-literature-vote-crowd-favorite)
+      [Beatles Analysis](https://public.tableau.com/en-us/s/gallery/beatles-analysis)
+10. [Creating jitter strip plots](https://www.doingdata.org/blog/how-to-create-jitter-plot-strip-plot-in-tableau)
+
+
 
