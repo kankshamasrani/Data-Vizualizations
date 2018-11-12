@@ -18,3 +18,5 @@ Follow and stay updated:
 4. [MakeOverMonday Datasets](http://www.makeovermonday.co.uk/data/)
 5. [TableauTipTuesday](http://www.vizwiz.com/p/tips.html)
 6. [WorkoutWednesday Practice](http://www.vizwiz.com/p/workout-wednesday.html)
+7. [Guide to animated bubble charts using plotly](https://www.kaggle.com/aashita/guide-to-animated-bubble-charts-using-plotly?scriptVersionId=5456794)
+
